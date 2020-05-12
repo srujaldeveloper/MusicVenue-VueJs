@@ -1,0 +1,57 @@
+    ======  ======
+    Time:12/20/2019 6:18:31 PM
+    Title: Initiate log
+    Message: 
+    Time:12/20/2019 6:18:31 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:12/20/2019 6:18:31 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:12/20/2019 6:18:31 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:12/20/2019 6:18:31 PM
+    Title: LICENSER
+    Message: FNF
+    Time:12/20/2019 6:18:34 PM
+    Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:12/20/2019 6:18:34 PM
+    Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Entering constructor for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering constructor for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    TR: Assembly resolution failed: Telerik.UserSettings.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Product creation from registry failed for:HKEY_LOCAL_MACHINE\Software\Telerik\Reporting\Net4.0
+    Install dir: 
+    Version: 
+    Product creation from registry failed for:HKEY_LOCAL_MACHINE\Software\Telerik\Reporting\R1 2019
+    Install dir: 
+    Version: 
+    No Telerik Reporting products found in registry
+    TR: Assembly resolution failed: Telerik.Windows.Themes.Modern.2012.2.0903.1135, Culture=neutral
+    TR: Assembly resolution failed: Telerik.Windows.Controls.Input.2012.2.0903.1135, Version=2012.2.903.35, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+    TR: Assembly resolution failed: Telerik.Windows.Controls.Navigation.2012.2.0903.1135, Version=2012.2.903.35, Culture=neutral, PublicKeyToken=5803cfa389c90ce7

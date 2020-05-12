@@ -1,0 +1,461 @@
+{
+  "post": [
+    {
+      "sName": "CARMINHO",
+      "sDescription": "<p>Chick Corea: In the Mind of a Master is an exclusive documentary special, taking viewers behind the scenes with jazz legend Chick Corea during the making of his album Antidote with the Spanish Heart Band. </p>",
+      "dDate": "2019-11-26T19:30:00+05:30",
+      "nTicketPrice": "39.5",
+      "nGenreId": 1,
+      "nArtistId": 5,
+      "start": "2019-11-26T19:30:00+05:30",
+      "title": "CARMINHO",
+      "id": 1
+    },
+    {
+      "sName": "GAELIC STORM",
+      "sDescription": "<p><strong>Jazz</strong> is a music genrethat originated in the African-American communities of New Orleans.</p>",
+      "dDate": "2019-11-29T21:00:00+05:30",
+      "nTicketPrice": "45",
+      "nGenreId": 1,
+      "nArtistId": 7,
+      "start": "2019-11-29T21:00:00+05:30",
+      "title": "GAELIC STORM",
+      "id": 2
+    },
+    {
+      "sName": "Pink Floyd Project",
+      "sDescription": "<p>De Nederlandse tributeband Pink Floyd Project voert het legendarische dubbelalbum The Wall integraal uit! The Wall verscheen in 1979 en is het magnum opus van Pink Floyd, een deels autobiografisch werkstuk geschreven door bassist/zanger Roger Waters waarin isolement en machtsmisbruik centraal staan. De bijbehorende wereldtournee deed in 1980 en 1981 slechts vier plaatsen aan: Los Angeles, New York, Londen en Dortmund. De show van vanavond is muzikaal gebaseerd op deze concerten, inclusief groot decor, videoprojecties, een kinderkoor en (Pink Floyder wordt het niet) quadrafonisch geluid!</p>",
+      "dDate": "2019-11-30T19:30:00+05:30",
+      "nTicketPrice": "45.5",
+      "nGenreId": 2,
+      "nArtistId": 13,
+      "start": "2019-11-30T19:30:00+05:30",
+      "title": "Pink Floyd Project",
+      "id": 3
+    },
+    {
+      "sName": "Coldplay's POP show",
+      "sDescription": "<p>a concert of popular and light classical music played by a symphony orchestra.</p>",
+      "dDate": "2019-12-05T18:00:00+05:30",
+      "nTicketPrice": "48",
+      "nGenreId": 3,
+      "nArtistId": 10,
+      "start": "2019-12-05T18:00:00+05:30",
+      "title": "Coldplay's POP show",
+      "id": 4
+    },
+    {
+      "sName": "U2 ADELAIDE Show",
+      "sDescription": "<p>The term 'rock concert' is also occasionally used to refer to live performances by distinctly non-rock acts. Live performances by pop, hip-hop, and R&amp;B bands may not be rock concerts in the strictest sense, but they are often referred to as rock concerts regardless.</p>",
+      "dDate": "2019-12-10T21:45:00+05:30",
+      "nTicketPrice": "51",
+      "nGenreId": 2,
+      "nArtistId": 16,
+      "start": "2019-12-10T21:45:00+05:30",
+      "title": "U2 ADELAIDE Show",
+      "id": 5
+    },
+    {
+      "sName": "Brian Eno Concert",
+      "sDescription": "<p>Subsequently, in the new millennium, the popularity of EDM increased globally, largely in Australia and the United States.&nbsp;</p>",
+      "dDate": "2019-12-15T19:50:00+05:30",
+      "nTicketPrice": "35",
+      "nGenreId": 4,
+      "nArtistId": 1,
+      "start": "2019-12-15T19:50:00+05:30",
+      "title": "Brian Eno Concert",
+      "id": 6
+    },
+    {
+      "sName": "Live Nation Presents: An Intimate Evening With Sarah McLachlan",
+      "sDescription": "<p>a <strong>concert</strong> of popular and light classical music played by a symphony orchestra</p>",
+      "dDate": "2020-01-01T20:55:00+05:30",
+      "nTicketPrice": "47.5",
+      "nGenreId": 3,
+      "nArtistId": 12,
+      "start": "2020-01-01T20:55:00+05:30",
+      "title": "Live Nation Presents: An Intimate Evening With Sarah McLachlan",
+      "id": 7
+    },
+    {
+      "sName": "Zephanie's Rock",
+      "sDescription": "<p>The time has come! From being the first ever Idol Philippines Grand Winner to this generation’s Pop Princess, she is definitely a champion!</p><p>Winning the hearts of many, Zephanie is now ready to give back in her first major solo concert. Mark your calendars and witness the rise of this generation's Pop Princess.#ZephanieConcert</p>",
+      "dDate": "2020-01-04T22:10:00+05:30",
+      "nTicketPrice": "44",
+      "nGenreId": 2,
+      "nArtistId": 17,
+      "start": "2020-01-04T22:10:00+05:30",
+      "title": "Zephanie's Rock",
+      "id": 8
+    },
+    {
+      "sName": "Jean-Luc Ponty with Soul Train and Couple Chapiteau",
+      "sDescription": "<p><strong>JAZZ </strong>is American music developed especially from ragtime and blues and characterized by propulsive syncopated rhythms, polyphonic ensemble playing, varying degrees of improvisation, and often deliberate distortions of pitch and timbre.</p><p>Popular dance music influenced by jazz and played in a loud rhythmic manner.</p>",
+      "dDate": "2020-01-06T20:35:00+05:30",
+      "nTicketPrice": "47",
+      "nGenreId": 1,
+      "nArtistId": 8,
+      "start": "2020-01-06T20:35:00+05:30",
+      "title": "Jean-Luc Ponty with Soul Train and Couple Chapiteau",
+      "id": 9
+    },
+    {
+      "sName": "Guru Guru",
+      "sDescription": "<p>Electronic music is produced from a wide variety of sound resources—from sounds picked up by microphones to those produced by electronic oscillators (generating basic acoustical waveforms such as sine waves, square waves, and sawtooth waves), complex computer installations, and microprocessors—that are recorded on tape and then edited into a permanent form.</p><p>&nbsp;Generally, except for one type of performed music that has come to be called “live electronic music”.</p>",
+      "dDate": "2019-01-11T22:25:00+05:30",
+      "nTicketPrice": "49",
+      "nGenreId": 4,
+      "nArtistId": 3,
+      "start": "2019-01-11T22:25:00+05:30",
+      "title": "Guru Guru",
+      "id": 10
+    }
+  ],
+  "genre": [
+    {
+      "nGenreId": 1,
+      "sGenreName": "Jazz"
+    },
+    {
+      "nGenreId": 2,
+      "sGenreName": "Rock"
+    },
+    {
+      "nGenreId": 3,
+      "sGenreName": "Pop"
+    },
+    {
+      "nGenreId": 4,
+      "sGenreName": "Electronic"
+    }
+  ],
+  "artist": [
+    {
+      "nArtistId": 1,
+      "sArtistName": "Brian Eno",
+      "sBioGraphy": "Brian Peter George St John le Baptiste de la Salle Eno, RDI (/ˈiːnoʊ/; born Brian Peter George Eno, 15 May 1948) is an English musician, record producer, visual artist, and theorist best known for his pioneering work in ambient music and contributions to rock, pop, and electronica.[1] A self-described “non-musician”, Eno has helped introduce unique conceptual approaches and recording techniques to contemporary music.[1][2] He has been described as one of popular music's most influential and innovative figures.[1][3][4] Born in Suffolk, Eno studied painting and experimental music at the art school of Ipswich Civic College in the mid 1960s, and then at Winchester School of Art. He joined glam rock group Roxy Music as synthesiser player in 1971, recording two albums with the group. He departed in 1973 to record a number of solo albums, coining the term “ambient music” to describe his work on releases such as Another Green World (1975) and Music for Airports (1978). He also collaborated with artists such as Robert Fripp, Cluster, Harold Budd, David Bowie, and David Byrne, and produced albums by artists including John Cale, Jon Hassell, Laraaji, Talking Heads and Devo, and the no wave compilation No New York (1978). In subsequent decades, Eno has continued to record solo albums and work with artists including U2, Laurie Anderson, Grace Jones, Slowdive, Coldplay, James Blake, Kevin Shields, and Damon Albarn. Dating back to his time as a student, Eno has also worked in other media, including sound installations and his mid-70s co-development of Oblique Strategies, a deck of cards featuring cryptic aphorisms intended to spur creative thinking. From the 1970s onwards, Eno's installations have included the sails of the Sydney Opera House in 2009 and the Lovell Telescope at Jodrell Bank in 2016. An advocate of a range of humanitarian causes, Eno writes on a variety of subjects and is a founding member of the Long Now Foundation.[5] In 2019, Eno was inducted into the Rock and Roll Hall of Fame as a member of Roxy Music.[6]",
+      "sImageUrlPath": [
+        "../../assets/artist/Eno/eno1.jpg",
+        "../../assets/artist/Eno/eno2.jpg",
+        "../../assets/artist/Eno/eno3.png",
+        "../../assets/artist/Eno/eno4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Eno/Signals (Remastered 2005).mp4"
+      ],
+      "nGenreId": 4
+    },
+    {
+      "nArtistId": 2,
+      "sArtistName": "Phillip Glass",
+      "sBioGraphy": "Philip Glass (born January 31, 1937)[1] is an American composer and pianist. He is widely regarded as one of the most influential composers of the late 20th century.[2][3][4] Glass's work has been described as minimal music, having similar qualities to other “minimalist” composers such as La Monte Young, Steve Reich, and Terry Riley.[5] Glass describes himself as a composer of “music with repetitive structures”,[6] which he has helped evolve stylistically.[7][8] Glass founded the Philip Glass Ensemble, with which he still performs on keyboards. He has written numerous operas and musical theatre works, twelve symphonies, eleven concertos, eight string quartets and various other chamber music, and film scores. Three of his film scores have been nominated for Academy Awards.",
+      "sImageUrlPath": [
+        "../../assets/artist/Glass/Glass1.png",
+        "../../assets/artist/Glass/Glass2.jpg",
+        "../../assets/artist/Glass/Glass3.jpg",
+        "../../assets/artist/Glass/Glass4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Glass/Koyaanisqatsi.mp4"
+      ],
+      "nGenreId": 4
+    },
+    {
+      "nArtistId": 3,
+      "sArtistName": "Klaus Schulze",
+      "sBioGraphy": "Born in Berlin on August 4, 1947, Schulze began his performing career during the '60s, playing guitar, bass, and drums in a variety of local bands. By 1969, he was drumming in Tangerine Dream, appearing a year later on their debut LP, Electronic Meditation. The album was Schulze's lone effort with the group, however, as he soon co-founded Ash Ra Tempel with Manuel Gottsching and Harmut Enke, debuting in 1971 with a self-titled record; again, however, the band format appeared to stifle Schulze, and he mounted a solo career a few months later. While Schulze's previous recorded work had been in a typically noisy Krautrock vein, as a solo artist he quickly became more reflective; although he acquired his first synthesizer in 1972, it did not enter into his solo debut, Irrlicht, whose long, droning pieces were instead assembled from electronic organ, oscillators, and orchestral recordings. The double album Cyborg, his first recording to feature synths, followed in 1973, and a year later he issued Blackdance. Timewind, regarded by many as Schulze's masterpiece, appeared in 1975. Around that same time, he began producing prog rockers the Far East Family Band; the group's keyboardist, who went on to become the new age superstar Kitaro, frequently cited Schulze as the central influence behind his own plunge into the world of synths and electronics. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Schulze/Schulze1.png",
+        "../../assets/artist/Schulze/Schulze2.png",
+        "../../assets/artist/Schulze/Schulze3.jpg",
+        "../../assets/artist/Schulze/Schulze4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Schulze/Timewind Vincent van Oss Klaus Schulze 2018.mp4"
+      ],
+      "nGenreId": 4
+    },
+    {
+      "nArtistId": 4,
+      "sArtistName": "Tangerine Dream",
+      "sBioGraphy": "Tangerine Dream are unquestionably one of the most influential electronic groups of all time. Their music has made an immeasurable impact on ambient, new age, techno, trance, and progressive rock, as well as modern film score composition. Founded as a psychedelic rock group in 1967 by Edgar Froese, the group was initially associated with the Krautrock scene through early abstract albums like 1970's Electronic Meditation and 1972's Zeit. They pioneered the use of sequencers with classic albums like 1974's Phaedra and 1975's Rubycon, which proved to be commercially successful. They became prolific film composers, most notably scoring the 1983 blockbuster Risky Business. Subsequent albums such as 1985's Le Parc and 1988's Optical Race incorporated more digital instrumentation, as well as shorter, more pop-oriented compositions than their earlier epics. During the '90s, albums such as 1995's Tyranny of Beauty were closer to the forms of dance music that Tangerine Dream had heavily influenced. During the 21st century, TD gradually drifted back toward the sequencer-driven sound they had pioneered during the '70s. Froese passed away in 2015, but a trio lineup (including notable electronic musician Ulrich Schnauss) continued to record and perform, remaining true to Froese's vision with the 2017 full-length Quantum Gate. ",
+      "sImageUrlPath": [
+        "../../assets/artist/TDream/TDream1.png",
+        "../../assets/artist/TDream/TDream2.png",
+        "../../assets/artist/TDream/TDream3.jpg",
+        "../../assets/artist/TDream/TDream4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/TDream/Tdream_video.mp4"
+      ],
+      "nGenreId": 4
+    },
+    {
+      "nArtistId": 5,
+      "sArtistName": "Chick Corea",
+      "sBioGraphy": "Armando Anthony “Chick” Corea (born June 12, 1941) is an American jazz pianist/electric keyboardist and composer.[3] His compositions “Spain”, “500 Miles High”, “La Fiesta” and “Windows”, are considered jazz standards.[4] As a member of Miles Davis's band in the late 1960s, he participated in the birth of jazz fusion. In the 1970s he formed the fusion band Return to Forever.[3] With Herbie Hancock, McCoy Tyner, Keith Jarrett and Bill Evans, he has been described as one of the major jazz piano voices to emerge in the post-John Coltrane era.[5] Corea continued to pursue other collaborations and to explore musical styles throughout the 1980s and 1990s. He is also known for promoting and fundraising for a number of social issues.[6]In the early 1970s, Corea took a profound stylistic turn from avant-garde to a crossover jazz fusion style that incorporated Latin jazz with Return to Forever.[citation needed] Named after their eponymous 1972 album, the band relied on both acoustic and electronic instrumentation and drew upon Latin American styles more than on rock music. On their first two records, Return to Forever consisted of Flora Purim on vocals, Joe Farrell on flute and soprano saxophone, Airto Moreira on drums , and Stanley Clarke on double bass.[3] Drummer Lenny White and guitarist Bill Connors later joined Corea and Clarke to form the second version of the group, which expanded the earlier Latin jazz elements with a more rock and funk-oriented sound inspired by the Mahavishnu Orchestra, led by his Bitches Brew bandmate John McLaughlin. This incarnation of the group recorded the album Hymn of the Seventh Galaxy, before Connors' departure and replacement by Al Di Meola, who was present on the subsequent releases Where Have I Known You Before, No Mystery, and Romantic Warrior. Corea's composition “Spain” appeared on the 1972 Return to Forever album Light as a Feather. This is probably his most popular piece, and it has been recorded by a variety of artists. There are also a variety of recordings by Corea himself. These included an arrangement for piano and symphony orchestra that appeared in 1999 and a collabration with vocalist Bobby McFerrin on the 1992 album Play. Corea usually performs “Spain” with a prelude based on Joaquín Rodrigo's Concierto de Aranjuez (1940), which earlier received a jazz orchestration on Davis and Gil Evans' Sketches of Spain.[citation needed] In 1976, he issued My Spanish Heart, influenced by Latin American music and featuring vocalist Gayle Moran (Corea's wife) and electric violinist Jean-Luc Ponty. The album combined jazz and flamenco, supported by Minimoog backup and a horn section.",
+      "sImageUrlPath": [
+        "../../assets/artist/Corea/corea1.png",
+        "../../assets/artist/Corea/corea2.jpg",
+        "../../assets/artist/Corea/corea3.jpg",
+        "../../assets/artist/Corea/corea4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Corea/Amazing Performance by Chick Corea on LEGENDS OF JAZZ.mp4"
+      ],
+      "nGenreId": 1
+    },
+    {
+      "nArtistId": 6,
+      "sArtistName": "Return to Forever",
+      "sBioGraphy": "Jazz keyboard player Chick Corea's Return to Forever emerged as one of the key jazz-rock fusion bands of the 1970s. Like Weather Report and the Mahavishnu Orchestra, they were formed by an alumnus of Miles Davis' late-'60s bands with the intention of furthering the jazz-rock hybrid Davis had explored on albums like Bitches Brew. At the time, this was seen as a means of creativity, a new direction for jazz, and as a way of attracting the kinds of large audiences enjoyed by rock musicians. Return to Forever started out as more of a Latin-tinged jazz ensemble, but Corea, influenced by the Mahavishnu Orchestra of John McLaughlin and some of the progressive rock bands coming out of Great Britain, notably Yes and Emerson, Lake & Palmer, moved the group more toward rock, achieving considerable commercial success. A later re-orientation of the band gave it more of a big-band style before Corea folded the unit, retaining the Return to Forever name for occasional tours and other projects.Corea formed Return to Forever in the fall of 1971 while he was working in Stan Getz's band, and the two groups shared some members. In addition to Corea on keyboards, the initial lineup featured Stanley Clarke on bass, Joe Farrell on reeds, and the Brazilian husband-and-wife team of percussionist Airto Moreira and singer Flora Purim. “Return to Forever” was the name of the first tune Corea wrote for the outfit, and he then adapted it as the group's name. The band made its debut at the Village Vanguard nightclub in New York City in November 1971. In February 1972, they recorded their first self-titled album, though it was not released on ECM in Europe until the following year and did not appear in the U.S. until 1975. Corea, Clarke, and Moreira, all of whom had been playing with Getz, left his band to concentrate on Return to Forever. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Forever/Forever1.jfif",
+        "../../assets/artist/Forever/Forever2.jfif",
+        "../../assets/artist/Forever/Forever3.jfif",
+        "../../assets/artist/Forever/Forever4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Forever/Return to Forever IV avecfeaturing Chick Corea, Stanley Clarke, Lenny White, Frank Gambale .mp4"
+      ],
+      "nGenreId": 1
+    },
+    {
+      "nArtistId": 7,
+      "sArtistName": "Pat Metheny",
+      "sBioGraphy": "PAT METHENY was born in Kansas City on August 12, 1954 into a musical family. Starting on trumpet at the age of 8, Metheny switched to guitar at age 12. By the age of 15, he was working regularly with the best jazz musicians in Kansas City, receiving valuable on-the-bandstand experience at an unusually young age. Metheny first burst onto the international jazz scene in 1974. Over the course of his three-year stint with vibraphone great Gary Burton, the young Missouri native already displayed his soon-to-become trademarked playing style, which blended the loose and flexible articulation customarily reserved for horn players with an advanced rhythmic and harmonic sensibility - a way of playing and improvising that was modern in conception but grounded deeply in the jazz tradition of melody, swing, and the blues. With the release of his first album, Bright Size Life (1975), he reinvented the traditional “jazz guitar” sound for a new generation of players. Throughout his career, Pat Metheny has continued to re-define the genre by utilizing new technology and constantly working to evolve the improvisational and sonic potential of his instrument. METHENY'S versatility is almost nearly without peer on any instrument. Over the years, he has performed with artists as diverse as Steve Reich to Ornette Coleman to Herbie Hancock to Jim Hall to Milton Nascimento to David Bowie.  Metheny's body of work includes compositions for solo guitar, small ensembles, electric and acoustic instruments, large orchestras, and ballet pieces, with settings ranging from modern jazz to rock to classical.",
+      "sImageUrlPath": [
+        "../../assets/artist/Metheny/metheny1.png",
+        "../../assets/artist/Metheny/metherny2.png",
+        "../../assets/artist/Metheny/metheny3.png",
+        "../../assets/artist/Metheny/metheny4.png"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Metheny/Pat Metheny_video.mp4"
+      ],
+      "nGenreId": 1
+    },
+    {
+      "nArtistId": 8,
+      "sArtistName": "Jean Luc Ponty",
+      "sBioGraphy": "Jean-Luc Ponty is a pioneer and undisputed master of violin in the arena of jazz and rock. He is widely regarded as an innovator who has applied his unique visionary spin that has expanded the vocabulary of modern music. Ponty was born in a family of classical musicians on September 29, 1942 in Avranches, France. His father taught violin, his mother taught piano. At sixteen, he was admitted to the Conservatoire National Supérieur de Musique de Paris, graduating two years later with the institution's highest award, Premier Prix. In turn, he was immediately hired by one of the major symphony orchestras, Concerts Lamoureux, where he played for three years.While still a member of the orchestra in Paris, Ponty picked up a side gig playing clarinet (which his father had taught him) for a college jazz band that regularly performed at local parties. It proved a life-changing jumping-off point. A growing interest in the jazz sounds of Miles Davis and John Coltrane compelled him to take up the tenor saxophone. Fueled by an all-encompassing creative passion, Jean-Luc soon felt the need to express his jazz voice through his main instrument, the violin.",
+      "sImageUrlPath": [
+        "../../assets/artist/Ponty/ponty1.png",
+        "../../assets/artist/Ponty/ponty2.png",
+        "../../assets/artist/Ponty/ponty3.jpg",
+        "../../assets/artist/Ponty/ponty4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Ponty/ponty.mp4"
+      ],
+      "nGenreId": 1
+    },
+    {
+      "nArtistId": 9,
+      "sArtistName": "Sara Bareilles",
+      "sBioGraphy": "A gifted songwriter and a versatile pianist with no formal training, Sara Bareilles burst onto the pop scene in the early 2000s with a dynamic vocal range that earned her comparisons to Fiona Apple, Regina Spektor, and Ingrid Michaelson. Her breakthrough sophomore effort, 2007's Little Voice, went platinum, while follow-up Kaleidoscope Heart topped the charts in 2010. In addition to her pop pursuits, Bareilles also delved into the world of theater, writing the music for the 2015 Tony-nominated stage production Waitress (she later starred in 2017/2018 engagements); starring in the 2018 Emmy- and Grammy-nominated Jesus Christ Superstar Live in Concert!; and contributing to pop reimaginings of tracks from Hamilton and The Greatest Showman.Born and raised in Eureka, California, Bareilles grew up participating in choir and local theater, later learning piano while studying at UCLA, where she was enrolled in their Communication Studies program. There, Bareilles spent the majority of her spare time studying her new environment and writing poetry and songs about the busy surroundings.After graduation, she spent the next three years performing her songs at open-mike nights, slowly building her confidence as a musician before graduating to local clubs and festivals. In 2003, she co-produced her first demo, Careful Confessions, and became enthralled with recording techniques. Eager to go back to the studio and create a second full-length album, she started shopping her CD around and signed a deal with Epic Records in April 2005. Producer Eric Rosse took her under his wing the following February and the two spent a little over a year perfecting the orchestration -- nearly half of the songs had formerly appeared on Careful Confessions, and a new batch of tracks was carefully constructed in order to make her first major-label release as strong as possible. The lyrical themes of the album, entitled Little Voice and released in July 2007, covered her past relationships, insecurities, and inner battles with trying to trust her instincts. The single “Love Song” made the album a hit; both the single and album reached the Top Ten, with “Love Song” eventually selling more than three million copies.With a hit album on her hands, Bareilles hit the road and toured heavily for the next two years, releasing a concert album (Between the Lines: Sara Bareilles Live at the Fillmore) along the way. Playing her songs night after night inspired her to begin writing new material, and Bareilles found herself drawn to material that was bigger, bolder, and peppier than the songs that comprised Little Voice. The result was Kaleidoscope Heart, which marked her second major-label effort upon its release in mid-2010. Kaleidoscope Heart debuted at number one on the Billboard charts, beginning a hectic year for Bareilles. She toured the album well into 2011 and in the fall of that year, she signed on to NBC's televised competition The Sing-Off as a judge. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Bareilles/Sara Bareilles1.jfif",
+        "../../assets/artist/Bareilles/Sara Bareilles2.jfif",
+        "../../assets/artist/Bareilles/Sara Bareilles3.jfif",
+        "../../assets/artist/Bareilles/Sara Bareilles4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Bareilles/Sara Bareilles - Bottle It Up.mp4"
+      ],
+      "nGenreId": 3
+    },
+    {
+      "nArtistId": 10,
+      "sArtistName": "Coldplay",
+      "sBioGraphy": "Coldplay are a British rock band formed in London in 1996.[1][2] The four members – comprising lead vocalist/pianist Chris Martin, lead guitarist Jonny Buckland, bassist Guy Berryman and drummer Will Champion – were at University College London and came together from 1996 to 1998. During these two years, the band changed names from Pectoralz, to Starfish, and finally, to Coldplay.[3][4] Creative director and former manager Phil Harvey is often referred to as the fifth member by the band.[4] They recorded and released two EPs: Safety in 1998 and The Blue Room in 1999. The latter was their first release on a major label, after signing to Parlophone.[5] Coldplay achieved worldwide fame with the release of the song “Yellow” in 2000, followed in the same year by their debut album Parachutes, which was nominated for the Mercury Prize. The band's second album, A Rush of Blood to the Head (2002), was released to critical acclaim and won many awards, including NME's Album of the Year. Their next release, X&Y, the best-selling album worldwide in 2005, received mostly positive reviews, though some critics felt it was inferior to its predecessor. Their fourth studio album, Viva la Vida or Death and All His Friends (2008), the best-selling album worldwide of 2008, was produced by Brian Eno and released to largely positive reviews, earning three Grammy Awards. In October 2011, Coldplay released their fifth studio album, Mylo Xyloto, which topped the charts in over 34 countries, was the UK's best-selling rock album of 2011, and received moderately positive reviews.[6] Their sixth album, Ghost Stories, released in 2014, received mixed reviews and topped several national album charts. The following year the band released their seventh album, A Head Full of Dreams, which reached the top two in most major markets, but received generally mixed reviews. Coldplay have won numerous awards throughout their career, including nine Brit Awards, six MTV Video Music Awards, seven MTV Europe Music Awards and seven Grammy Awards from 29 nominations.[7] They have sold more than 100 million records worldwide, making them one of the world's best-selling music artists.[8] Three of their albums: Parachutes, A Rush of Blood to the Head and X&Y are among the best-selling albums in UK chart history.[9] In December 2009, Rolling Stone readers voted the group the fourth-best artist of the 2000s.[10] Coldplay have supported various social and political causes, such as Oxfam's Make Trade Fair campaign and Amnesty International. They have also performed at charity projects, including Band Aid 20, Live 8, Global Citizen Festival, Sound Relief, Hope for Haiti Now: A Global Benefit for Earthquake Relief, One Love Manchester, The Secret Policeman's Ball, Sport Relief and the UK Teenage Cancer Trust.[11]",
+      "sImageUrlPath": [
+        "../../assets/artist/Coldplay/coldplay_1.png",
+        "../../assets/artist/Coldplay/coldplay_2.png",
+        "../../assets/artist/Coldplay/coldplay_3.jpg",
+        "../../assets/artist/Coldplay/coldplay_4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Coldplay/coldplay_video.mp4"
+      ],
+      "nGenreId": 3
+    },
+    {
+      "nArtistId": 11,
+      "sArtistName": "Keane",
+      "sBioGraphy": "Keane's piano-driven pop/rock cemented them as one of the best-selling and most-beloved bands in U.K. history. Debuting in the early 2000s as part of the wave of post-Coldplay sensitive indie that crashed the mainstream, their first album, the anthemic Hopes and Fears, was a commercial and critical success that endured well beyond its 2004 release, pushing darker sophomore effort Under the Iron Sea to the top of the charts in the U.K. After capping a successful decade with the synth-driven, Bowie-indebted Perfect Symmetry (2008) and its worldly companion EP, Night Train (2010), the quartet entered a period rife with personal struggle and uncertainty that resulted in an extended hiatus following the release of their fifth straight chart-topper, 2012's Strangeland. Addiction, divorce, and multiple side projects kept the spirit of Keane alive for much of the 2010s, while devoted fans held onto the hope that they would eventually return. In 2019, the band made their comeback with fifth LP Cause and Effect, their first studio full-length in seven years. The band initially comprised vocalist Tom Chaplin, drummer Richard Hughes, and pianist Tim Rice-Oxley, three childhood friends from the small town of Battle in East Sussex, England. Formed in 1997, the group started out as a college-aged cover band. Guitarist Dominic Scott was also part of this early incarnation, having previously played cover songs with Hughes and Rice-Oxley in a band named the Lotus Eaters. Keane toured the East Sussex circuit for several years while internalizing the epic sounds of their set list, which included songs by Oasis, U2, and the Beatles. The quartet began performing original material in 1998, although Chaplin left for Edinburgh University shortly thereafter to study art history. The move proved to be brief, as he returned to London in 1999 and doubled his efforts with Keane. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Keane/keane1.jfif",
+        "../../assets/artist/Keane/keane2.jfif",
+        "../../assets/artist/Keane/keane3.jfif",
+        "../../assets/artist/Keane/keane4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Keane/Keane - Your Eyes Open (lyrics).mp4"
+      ],
+      "nGenreId": 3
+    },
+    {
+      "nArtistId": 12,
+      "sArtistName": "Sarah McLachlan",
+      "sBioGraphy": "Canadian singer/songwriter Sarah McLachlan debuted in 1988 with her piano-based folk-pop, which went on to gain her a devoted following, a number of Juno and Grammy Awards, and placement in the Canadian Music Hall of Fame. She also founded Lilith Fair, a concert tour that helped usher other female songwriters into the mainstream during the late '90s, while maintaining her own presence on the charts. McLachlan was born on January 28, 1968, in Halifax, Nova Scotia, where she began taking lessons for voice, classical piano, and guitar as a child. Following a year of art training at the Nova Scotia School of Design, McLachlan (who had also been fronting a new wave band named October Game) was approached by Nettwerk Records and offered a solo deal. She initially turned it down in favor of continued studies; however, she reconsidered and accepted the offer in late 1987, relocating to Vancouver soon after. On the strength of her debut, 1988's Touch, the budding songwriter was signed to Arista for international distribution. The album eventually reached gold status in Canada and was reissued worldwide in 1989. In 1991, she followed up with Solace, an impressive collection that showed a great leap in songcraft and began to build a strong cult following in the U.S. In September 1992, following a 14-month promotional tour, McLachlan traveled to Cambodia and Thailand to work on World Vision, a Canadian-sponsored documentary on poverty and child prostitution. Inspired by her experiences, she retreated to a secluded house outside of Montreal to write material for her next album. After six months in a Montreal studio with collaborator/producer Pierre Marchand, she released Fumbling Toward Ecstasy, her strongest and most personal effort to date, in late 1993. The album peaked in the U.S. charts at number 50; by the end of 1994, it reached platinum status after spending 62 weeks on the chart. “Possession” an atmospheric single that mixed electronica influences with lyrics inspired by a stalker, broke the Top 100 and received considerable airplay, especially on modern rock radio, where it peaked at number 14. “Good Enough” also found a home in that format, reaching number 16. The Freedom Sessions, consisting mainly of alternate versions of tracks from Fumbling, arrived in 1995; that same year also saw the release of “I Will Remember You” which McLachlan wrote as the theme for Brothers McMullen. Rarities, B-Sides & Other Stuff, a collection of non-LP tracks and remixes, was issued in Canada in 1996. In 1997, McLachlan began work on her fourth album, the enormously successful Surfacing, which debuted at number two on the pop albums chart. She also organized Lilith Fair, a package tour focusing on emerging women singer/songwriters. Released in 1999, the multi-platinum Mirrorball chronicled McLachlan's performances on that tour and served as her first live release. In 2003, after a short hiatus from the business, she put out the successful Afterglow, followed by another concert release, Afterglow Live. Both releases eventually went multi-platinum, and McLachlan continued to tour through 2005. In June of that year, she performed on the Philadelphia stage of Live 8, the multi-city anniversary celebration of Live Aid and G8 summit protest coordinated by Live Aid founder Bob Geldof. She released Bloom, her second remix collection, several months later. While most of its material was drawn from Afterglow, it also included a version of the 1989 McLachlan track “Vox” and a previously unreleased collaboration with DMC and Black Eyed Peas' will.i.am. McLachlan released two albums in 2006: Mirrorball: The Complete Concert, which captured the entirety of the last date on her 1998 tour, and Wintersong, a collection of traditional and modern Christmas covers (plus one new song, the title cut). She then returned to original material for 2010's Laws of Illusion, her first studio album in nearly seven years. Featuring “One Dream,” which she wrote for the 2009 Vancouver Winter Olympics Opening Ceremony, the album was released several weeks before the start of Lilith Fair 2010, the festival's first appearance in more than a decade. McLachlan spent the next couple of years focusing on her charitable endeavor The Sarah McLachlan School of Music, which provided free music lessons to at-risk kids in Vancouver. She returned to the studio in 2013 to record a new album with longtime collaborator Pierre Marchand, inspired by the recent death of her father. Parting ways with Arista, her label home for more than 20 years, she signed to Verve. She released Shine On, her first album for the label and another collaboration with Pierre Marchand, in May of 2014. Shine On debuted at number one on the Canadian charts and number four in the U.S.; it would win the Juno for Best Adult Contemporary Album. In October 2016, McLachlan released Wonderland, her second Christmas album. The following year, she was inducted into the Canadian Music Hall of Fame. ",
+      "sImageUrlPath": [
+        "../../assets/artist/McLachlan/McLachlan1.jfif",
+        "../../assets/artist/McLachlan/McLachlan2.jfif",
+        "../../assets/artist/McLachlan/McLachlan3.jfif",
+        "../../assets/artist/McLachlan/McLachlan4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/McLachlan/Sarah McLachlan - I Will Remember You (Live).mp4"
+      ],
+      "nGenreId": 3
+    },
+    {
+      "nArtistId": 13,
+      "sArtistName": "Pink Floyd",
+      "sBioGraphy": "Some bands turn into shorthand for a certain sound or style, and Pink Floyd belongs among that elite group. The very name connotes something specific: an elastic, echoing, mind-bending sound that evokes the chasms of space. Pink Floyd grounded that limitless sound with exacting explorations of mundane matters of ego, mind, memory, and heart, touching upon madness, alienation, narcissism, and society on their concept albums of the '70s. Of these concept albums, Dark Side of the Moon resonated strongest, earning new audiences year after year, decade after decade, and its longevity makes sense. That 1973 album distilled the wild psychedelia of their early years -- that brief, heady period when they were fronted by Syd Barrett -- into a slow, sculpted, widescreen epic masterminded by Roger Waters, the bassist who was the band's de facto leader in the '70s. Waters fueled the band's golden years, conceiving such epics as Wish You Were Here and The Wall, but the band survived his departure in the '80s, with guitarist David Gilmour stepping to the forefront on A Momentary Lapse of Reason and The Division Bell. Throughout the years, drummer Nick Mason and keyboardist Rick Wright appeared in some capacity, and the band's sonic signature was always evident: a wide, expansive sound that was instantly recognizable as their own, yet was adopted by all manner of bands, from guitar-worshiping metalheads to freaky, hippie, ambient electronic duos. Unlike almost any of their peers, Pink Floyd played to both sides of the aisle: they were rooted in the blues but their heart belonged to the future, a dichotomy that made them a quintessentially modern 20th century band. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Floyd/floyd1.jfif",
+        "../../assets/artist/Floyd/floyd2.png",
+        "../../assets/artist/Floyd/floyd3.jfif",
+        "../../assets/artist/Floyd/floyd4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Floyd/Pink Floyd - Run Like Hell (Delicate Sound Of Thunder) [Original Vs Restored].mp4"
+      ],
+      "nGenreId": 2
+    },
+    {
+      "nArtistId": 14,
+      "sArtistName": "Peter Gabriel",
+      "sBioGraphy": "As the leader of Genesis in the early '70s, Peter Gabriel helped move progressive rock to new levels of theatricality. He was no less ambitious as a solo artist, but he was more subtle in his methods. With his first eponymous solo album in 1977, he began exploring darker, more cerebral territory, incorporating avant-garde, electronic, and worldbeat influences into his music. The record, as well as its two similarly titled successors, established Gabriel as a critically acclaimed cult artist, and with 1982's Security, he began to move into the mainstream; “Shock the Monkey” became his first Top 40 hit, paving the way for his multi-platinum breakthrough So in 1986. Accompanied by a series of groundbreaking videos and the number one single “Sledgehammer,” So became a multi-platinum hit, and Gabriel became an international star. Instead of capitalizing on his sudden success, he began to explore other interests, including recording soundtracks and running his company Real World. By the time he returned to pop with 1992's Us, his mass audience had faded away and he spent the remainder of the '90s working on multimedia projects for Real World. Following his departure from Genesis in 1976, Peter Gabriel began work on the first of three consecutive eponymously titled albums; each record was named Peter Gabriel, he said, as if they were editions of the same magazine. In 1977, his first solo album appeared and became a moderate success due to the single “Solsbury Hill.” Another self-titled record followed in 1978, yet received comparatively weaker reviews. Gabriel's third eponymous album proved to be his artistic breakthrough, however. Produced by Steve Lillywhite and released in 1980, the album established Gabriel as one of rock's most ambitious, innovative musicians, as well as one of its most political -- “Biko,” a song about a murdered anti-apartheid activist, became one of the biggest protest anthems of the '80s. “Games Without Frontiers,” with its eerie chorus, nearly reached the Top 40.",
+      "sImageUrlPath": [
+        "../../assets/artist/Gabriel/gabriel1.jfif",
+        "../../assets/artist/Gabriel/gabriel2.jfif",
+        "../../assets/artist/Gabriel/gabriel3.jfif",
+        "../../assets/artist/Gabriel/gabriel4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Gabriel/Peter Gabriel looks back at PG2 (Scratch).mp4"
+      ],
+      "nGenreId": 2
+    },
+    {
+      "nArtistId": 15,
+      "sArtistName": "Genesis",
+      "sBioGraphy": "Genesis started life as a progressive rock band, in the manner of Yes and King Crimson, before a series of membership changes brought about a transformation in their sound, into one of the most successful pop/rock bands of the 1980s and 1990s. In addition, the group has provided a launching pad for the superstardom of members Peter Gabriel and Phil Collins, and star solo careers for members Tony Banks, Michael Rutherford, and Steve Hackett. Their roots go back to 1965 and a pair of rival groups, the Garden Wall and the Anon, formed by students at the Charterhouse School in Godalming, Surrey. They merged, with the result that 15-year-olds Peter Gabriel, Tony Banks, and Michael Rutherford joined with 14-year-old Anthony Phillips, calling themselves the New Anon and recording a six-song demo featuring songs primarily written by Rutherford and Phillips.Charterhouse alumnus, recording artist, and producer Jonathan King heard the tape and arranged for the group to continue working in the studio, and it was also King who renamed the band Genesis. In December of 1967 they cut their debut single, “The Silent Sun,” a very deliberate Bee Gees-style pastiche -- it was released in February of 1968 without attracting much notice from the public, and a second single, “A Winter's Tale,” followed with similar neglect. They also ran through a couple of drummers during this period, Chris Stewart and John Silver. At this time, the group's music was a form of lyrical folk-based progressive pop, built on lush melodies primarily carried on acoustic guitar and piano, with lyrics that tended toward the florid and trippy -- psychedelia was in vogue, and Genesis showed an exceptional facility with poetic content as well as gorgeous melodies. Their debut album, From Genesis to Revelation -- which the group has all but disowned in the decades since -- was released in March of 1969, and passed without too much notice from the music press or the public. The members began thinking about getting on with their lives outside of music, and especially attending college. But they felt strongly enough about their work to try making it as a professional band. The re-formed in 1969 and got their first paying gig in September of that year, and spent the next several months working out new material, with new drummer John Mayhew aboard.Genesis soon became one of the first groups signed to the fledgling Charisma label, founded by Tony Stratton-Smith, and they recorded their second album, Trespass. That record, released in October of 1970, showed the first signs of the band that Genesis would become. The music was still folk-based, some of the songs couldn't quite carry their length, and they had some way to go in terms of vocal and instrumental finesse, but it had reach if not grasp -- most of the album was comprised of extended pieces, sung with dramatic intensity, and with complex parts for all of the instruments.Genesis then lost two members. Mayhew left over the unhappiness with aspects of his playing, and was replaced by Phil Collins, a former child actor turned drummer who had previously played with Flaming Youth -- he also added an occasional additional lead vocal to their sound. Much more unsettling was the departure of guitarist Anthony Phillips, who had developed crippling stage fright. For some time afterward, Genesis worked as a four-piece with the guitar parts covered by Banks' keyboards. Finally, just prior to Genesis beginning work on their next album, their lineup was completed with the addition of guitarist Steve Hackett, a former member of Quiet World. The band's next album, Nursery Cryme, was recorded so close to his arrival that Hackett played on it, but some of the guitar parts were written and played by Michael Rutherford, while the centerpiece of the new album, “The Musical Box,” used material that Phillips had composed. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Genesis/genesis1.jfif",
+        "../../assets/artist/Genesis/genesis2.jfif",
+        "../../assets/artist/Genesis/genesis3.jfif",
+        "../../assets/artist/Genesis/genesis4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Genesis/Genesis - Follow You Follow Me (Official Music Video).mp4"
+      ],
+      "nGenreId": 2
+    },
+    {
+      "nArtistId": 16,
+      "sArtistName": "U2",
+      "sBioGraphy": "U2 are an Irish rock band from Dublin, formed in 1976. The group consists of Bono (lead vocals and rhythm guitar), the Edge (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion). Initially rooted in post-punk, U2's musical style has evolved throughout their career, yet has maintained an anthemic quality built on Bono's expressive vocals and the Edge's effects-based guitar textures. Their lyrics, often embellished with spiritual imagery, focus on personal and sociopolitical themes. Popular for their live performances, the group have staged several ambitious and elaborate tours over their career. The band formed as teenagers while attending Mount Temple Comprehensive School, when they had limited musical proficiency. Within four years, they signed with Island Records and released their debut album, Boy (1980). Subsequent work such as their first UK number-one album, War (1983), and the singles “Sunday Bloody Sunday” and “Pride (In the Name of Love)” helped establish U2's reputation as a politically and socially conscious group. By the mid-1980s, they had become renowned globally for their live act, highlighted by their performance at Live Aid in 1985. The group's fifth album, The Joshua Tree (1987), made them international superstars and was their greatest critical and commercial success. Topping music charts around the world, it produced their only number-one singles in the US to date: “With or Without You” and “I Still Haven't Found What I'm Looking For”. Facing creative stagnation and a backlash following their documentary/double album, Rattle and Hum (1988), U2 reinvented themselves in the 1990s through a new musical direction and public image. Beginning with their acclaimed seventh album, Achtung Baby (1991), and the multimedia-intensive Zoo TV Tour, the band integrated influences from alternative rock, electronic dance music, and industrial music into their sound, and embraced a more ironic, flippant image. This experimentation continued through their ninth album, Pop (1997), and the PopMart Tour, which were mixed successes. U2 regained critical and commercial favour with the records All That You Can't Leave Behind (2000) and How to Dismantle an Atomic Bomb (2004), which established a more conventional, mainstream sound for the group. Their U2 360° Tour of 2009–2011 set records for the highest-attended and highest-grossing concert tour in history. The group most recently released the companion albums Songs of Innocence (2014) and Songs of Experience (2017), the former of which received criticism for its pervasive, no-cost release through the iTunes Store. U2 have released 14 studio albums and are one of the world's best-selling music artists, having sold an estimated 150–170 million records worldwide.[1] They have won 22 Grammy Awards, more than any other band, and in 2005, they were inducted into the Rock and Roll Hall of Fame in their first year of eligibility. Rolling Stone ranked U2 at number 22 on its list of the “100 Greatest Artists of All Time”.[2] Throughout their career, as a band and as individuals, they have campaigned for human rights and social justice causes, including Amnesty International, Jubilee 2000, the ONE/DATA campaigns, Product Red, War Child, and Music Rising. ",
+      "sImageUrlPath": [
+        "../../assets/artist/U2/U2_1.png",
+        "../../assets/artist/U2/U2_2.png",
+        "../../assets/artist/U2/U2_3.png",
+        "../../assets/artist/U2/U2_4.jpg"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/U2/U2_video.mp4"
+      ],
+      "nGenreId": 2
+    },
+    {
+      "nArtistId": 17,
+      "sArtistName": "Led Zeppelin",
+      "sBioGraphy": "What the Beatles were to the '60s, Led Zeppelin were to the '70s: a band so successful and innovative they wound up creating the prism through which their entire epoch was seen. Zeppelin ushered in the era of album rock -- they refused to release singles off their albums, even when they were garnering massive radio play -- and of arena rock, playing ever-larger stadiums as their ticket sales skyrocketed. Other bands played on a similar field but Led Zeppelin carried a unique mystique cultivated by cryptic album art, distance from the press, and, of course, their music. Drawing upon postwar electric blues, early rock & roll, and psychedelia, Zeppelin created a titanic roar in their earliest days but even then they weren't merely heavy. Underneath the wattage, there was a strong undercurrent of folk-rock and the quartet would soon thread in world music, funk, country, and synthesizers, creating an adventurous body of work that had a long, lasting influence on hard rock, heavy metal, and alternative rock.Quite a feat for a band whose origins lie in the ashes of the pioneering British rock band the Yardbirds. Jimmy Page, a guitarist who made his reputation as a sessionman in the '60s, joined the band in 1966, functioning as the replacement for bassist Paul Samwell-Smith, but he soon split lead guitar duties with Jeff Beck and took over that position entirely once Beck departed. Page contributed heavily to the band's final album, 1967's Little Games, which also saw contributions from John Paul Jones, a bassist and string arranger who also ran in the same studio circles as Page; the two played on Beck's 1966 single “Beck's Bolero,” which also featured Keith Moon. Under the direction of their new manager Peter Grant, the Yardbirds supported the album with a tour of the United States, but the group was in its final days. Just before the band's dissolution, Page filled the time with session work, including a spring 1968 session where he played on Jones' arrangement of Donovan's “Hurdy Gurdy Man.” During the sessions, Jones requested to be part of any future project of Page's. This future project materialized quickly. In the summer of 1968, the Yardbirds' Keith Relf and James McCarty left the band, leaving Page and bassist Chris Dreja with the rights to the name, along with the obligation of fulfilling an upcoming fall tour. Page set out to find a replacement vocalist and drummer. Initially, he wanted to enlist singer Terry Reid and Procol Harum's drummer B.J. Wilson, but neither musician was able to join the group. Reid suggested that Page contact Robert Plant, who was singing with a band called Hobbstweedle. ",
+      "sImageUrlPath": [
+        "../../assets/artist/Zeppelin/Zeppelin1.jfif",
+        "../../assets/artist/Zeppelin/zepellin2.jfif",
+        "../../assets/artist/Zeppelin/zepellin3.png",
+        "../../assets/artist/Zeppelin/zepellin4.jfif"
+      ],
+      "sVideoUrlPath": [
+        "../../assets/artist/Zeppelin/Immigrant Song (2007 Remaster).mp4"
+      ],
+      "nGenreId": 2
+    }
+  ],
+  "faq": [
+    {
+      "nFAQId": 1,
+      "sQuestion": "Show Times",
+      "sAnswer": "<p>Venue doors and the Music Hall Box Office open at 5pm any night there is a performance (sometimes the Box Office will not open until 6pm during Flex Stage shows).  At this time you may pick up will call tickets for that evening’s event, purchase tickets, and obtain line numbers.  You may also order drinks at the bar from 5-6pm.</p><p>The Music Hall opens and seating begins at 6pm, at which time you can order food.</p><p>Shows start at 7:30pm (unless otherwise noted).</p>"
+    },
+    {
+      "nFAQId": 2,
+      "sQuestion": "Seating",
+      "sAnswer": "<p>The Music Hall is general admission, with all seating done on a first come, first served basis. To keep the process orderly, we use Line Numbers, which are picked up at the box office upon arrival.</p><p>The Music Hall is all seated with tables. The Flex Stage is all standing unless otherwise stated, and then it would have limited seating.</p><p>At 5pm, when the Box Office opens, we begin handing out Line Numbers to customers as they come to the Box Office. At 6pm when the Music Hall doors open, we begin seating by Line Number (i.e. the first person in at 5pm will be the first person in the Music Hall at 6pm). *Line Numbers are NOT used for Flex Stage shows.  Reserved seats are NOT available, except for artists’ guests and VIPs.</p>"
+    },
+    {
+      "nFAQId": 3,
+      "sQuestion": "Purchasing and Picking Up Tickets",
+      "sAnswer": "<p>Tickets are available through all Ticketmaster outlets and the Music Hall Box Office. The Music Hall sells tickets exclusively through Ticketmaster.</p><p>To purchase tickets visit www.Ticketmaster.com.</p><p>Tickets can not be purchased through Ticketmaster after 4pm on the day of the show, only at the Box Office.</p><p>The Music Hall does NOT sell tickets over the phone. The only way to buy tickets from The Music Hall directly is at our Box Office, from 5-9pm, any night we have a show.</p><p>All Music Hall tickets ordered via Ticketmaster on the phone or online will be waiting at Will Call on the night of show. Will Call tickets are NOT available for pickup until the night of the performance after 5pm, at Music Hall Box Office.</p>"
+    },
+    {
+      "nFAQId": 4,
+      "sQuestion": "Ticket Service Charges",
+      "sAnswer": "<p>Ticketmaster service charges are set up by Ticketmaster and we do not have any say in the matter. Tickets purchased at the Music Hall Box Office, will have a $5.50 service charge per ticket. This charge is for our Box Office Staff, Parking, and Security. “We want you here, happy & safe!”</p><p>*As of July 1, 2005 the City of Alexandria has passed an Admissions Entertainment Tax of 50 cents per ticket sold. This tax has been added to the Service Charge. Therefore all tickets purchased at The Music Hall Box Ofc will have a $5.50 service fee, which includes this new tax.</p>"
+    },
+    {
+      "nFAQId": 5,
+      "sQuestion": "Sold Out Shows",
+      "sAnswer": "<p>Yes. If a show is sold out, it is SOLD OUT. We do not have a waiting list, and we cannot re-sell tickets for people who don’t show up.</p><p>However, sometimes an Artist does not use all the tickets we hold for them. If that happens, the tickets are released at 5pm, day of show, at the Music Hall Box Office only. You must be here in person, and there’s no guarantee any tickets will be released. You cannot call to have tickets held.</p>"
+    },
+    {
+      "nFAQId": 6,
+      "sQuestion": "What is the Flex Stage",
+      "sAnswer": "<p>The Flex Stage is the area where we have dance-oriented shows at The Music Hall. There is a large dance floor in front of the stage, and there are usually NO tables or chairs in the room. Most Flex Stage shows are All Standing.</p><p>All Standing shows are indeed , ALL STANDING, which means there will be no tables or chairs in the Flex Stage (except for Handicapped Accommodations). For most All Standing shows, we will have the Music Hall open for food & drink.Venue doors open at 6pm for Flex Stage shows, at which time entrance is completely general admission, first come first served. The Box office will be open at 5pm, but entrance will not begin until 6pm for all Flex Stage shows, and 8pm for “Late Shows.” Line Numbers are not used for Flex Stage shows.</p>"
+    },
+    {
+      "nFAQId": 7,
+      "sQuestion": "If you have tickets and can not attend",
+      "sAnswer": "<p>All sales are final; no refunds or exchanges. Refunds are ONLY available for cancelled or rescheduled shows.</p><p>If you cannot attend a show, but would like someone else to pick up your Will Call tickets, they will need the Ticketmaster Order Number and they will need to know the name the tickets were originally ordered under. That is all. This is the best way to transfer tickets to a friend/family member.</p><p>The Music Hall does not condone scalping, but we do realize that there are times when people cannot attend a show and would like to resell or giveaway their tickets. If you purchase tickets on other Secondary Ticketing sites (i.e. StubHub, Craigslist, Ebay, etc), we cannot guarantee that you will be granted admittance to the show. You will still need to have a Ticketmaster Confirmation Number and the name of the purchaser.</p>"
+    },
+    {
+      "nFAQId": 8,
+      "sQuestion": "Food & Drinks",
+      "sAnswer": "<p>At 5pm, when the doors open, our bar opens. The kitchen opens at 6pm, when the Music Hall opens and seating begins.</p><p>The full kitchen is open on show nights from 6pm until 8:30pm. From 8:30pm until 9pm only Flatbread Pizzas are available with the kitchen fully closed at 9pm.</p><p>The Music Hall has a full service kitchen and complete drink service. There are no minimums. See our Menu link for a complete list of food offered.</p><p>For Flex Stage shows, Food service is available in the Music Hall only (no food service at the bar during any Flex Stage shows). During All Standing shows, we will usually have the Music Hall open for food, drink & relaxation. There is no outside food or drink allowed. This includes birthday cakes.</p><p>Cork Fee</p><p>There is a $25 corking fee for any wine brought in.</p>"
+    },
+    {
+      "nFAQId": 9,
+      "sQuestion": "Age Limit",
+      "sAnswer": "<p>The Music Hall is all ages, all the time. EVERYONE needs a ticket.</p>"
+    },
+    {
+      "nFAQId": 10,
+      "sQuestion": "Dress Code",
+      "sAnswer": "<p>There is no dress code. Please gentlemen, no tank tops or cutoffs.</p>"
+    },
+    {
+      "nFAQId": 11,
+      "sQuestion": "Handicap facilities",
+      "sAnswer": "<p>The Music Hall is completely handicap accessible.</p>"
+    },
+    {
+      "nFAQId": 12,
+      "sQuestion": "Parking & Public Transportation",
+      "sAnswer": "<p>There is lighted, secure parking on site at The Music Hall. There is not a Metro Station in walking distance to The Music Hall. The best stop to use is Pentagon City (not Pentagon), as it is approximately 5 miles from club & there are always plenty of cabs available. See Directions link for more details.</p><p>There are now a number of Capital Bikeshare Bike Docks within walking distance of The Music Hall. See their website for more info.</p><p>Cost of parking is included in the Music Hall Box Office service charge.</p><p>For sold out shows, some overflow parking may occur across the street.</p>"
+    },
+    {
+      "nFAQId": 13,
+      "sQuestion": "Group Rates",
+      "sAnswer": "<p>There are no discount rates, for groups or anyone.</p>"
+    },
+    {
+      "nFAQId": 14,
+      "sQuestion": "Gift Cards",
+      "sAnswer": "<p>Gift cards are available at the Music Hall for any amount.</p><p>Cards may only be purchased in person at the box office.</p><p>You cannot purchase them online or over the phone.The box office is open any evening there is a performance between the hours of 5pm and 9pm.</p>"
+    }
+  ]
+}

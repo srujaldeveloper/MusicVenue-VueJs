@@ -1,0 +1,312 @@
+/* Calender */
+
+.p-dropdown .p-dropdown-panel {
+    z-index: 2 !important;
+}
+
+body .p-dropdown {
+    width: 150px !important;
+}
+
+.heartfillcolor {
+    font-size: 20px !important;
+    color: red !important;
+    cursor: pointer;
+}
+
+.fc-day-grid-event .fc-content {
+    color: white !important;
+    cursor: pointer !important;
+    padding: 5px;
+}
+
+.main {
+    background: #262829 !important;
+}
+
+.bg-info {
+    background: #BB33FF !important;
+}
+
+body .p-button {
+    background: #BB33FF !important;
+}
+
+body .fc .fc-toolbar .fc-button {
+    background: #B33FF3 !important;
+}
+
+body .fc .fc-event {
+    background: #BB33FF !important;
+}
+
+.main .container-fluid {
+    padding-bottom: 15px !important;
+}
+
+.gallery {
+    float: left;
+    width: 100%;
+    overflow-x: auto;
+}
+
+body .p-datatable .p-datatable-thead>tr>th {
+    background: #d3d7d8 !important;
+}
+
+body .fc th {
+    background: #d3d7d8 !important;
+}
+
+.details-header {
+    height: 40px;
+    background: #e6edef;
+    text-align: left;
+    padding: 5px;
+}
+
+.required {
+    color: #cc0000;
+    font-size: 16px;
+}
+
+body .p-datatable .p-sortable-column.p-highlight {
+    color: #333333 !important;
+}
+
+body .p-datatable .p-sortable-column.p-highlight .p-sortable-column-icon {
+    color: #333333 !important;
+}
+
+.fontbold {
+    font-weight: bold;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+.p-datatable-responsive .p-datatable-tbody>tr>td .p-column-title {
+    display: none;
+}
+
+.wrap-text {
+    word-wrap: break-word;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    cursor: pointer;
+}
+
+/* CreateShow */
+
+.menu-body {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: block;
+    color: rgb(92, 92, 92);
+}
+
+.menu-section {
+    margin-bottom: 80px;
+}
+
+.menu-section-title {
+    font-family: georgia;
+    font-size: 28px;
+    display: block;
+    font-weight: normal;
+    margin: 20px 0;
+    text-align: Center;
+}
+
+.menu-item {
+    margin: 35px 0;
+    font-size: 18px;
+}
+
+.menu-item-name {
+    font-family: helvetica;
+    font-weight: bold;
+    border-bottom: 2px dotted rgb(213, 213, 213);
+}
+
+.menu-item-description {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: 1.5em;
+}
+
+.menu-item-price {
+    float: right;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: -22px;
+}
+
+.simple-menu-item-name {
+    font-family: helvetica;
+    font-weight: normal;
+}
+
+.note {
+    color: #cd1307 !important;
+}
+
+.section-note {
+    float: right;
+    font-weight: bold;
+    color: black !important;
+}
+
+.foodmenu-headnote {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 40em) {
+    .p-datatable-responsive .p-datatable-thead>tr>th, .p-datatable-responsive .p-datatable-tfoot>tr>td {
+        display: none !important;
+    }
+    .p-datatable-responsive .p-datatable-tbody>tr>td {
+        text-align: left;
+        display: block;
+        border: 0 none;
+        width: 100% !important;
+        float: left;
+        clear: left;
+    }
+    .p-datatable-responsive .p-datatable-tbody>tr>td .p-column-title {
+        padding: .4em;
+        min-width: 30%;
+        display: inline-block;
+        margin: -.4em 1em -.4em -.4em;
+        font-weight: bold;
+    }
+    .p-datatable-wrapper .p-inputtext {
+        width: 90% !important;
+    }
+}
+
+.home-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.nav-item {
+    cursor: pointer !important;
+}
+
+.newsletter {
+    padding: 80px 0;
+    background: #BB33FF;
+    width: 100%;
+}
+
+.newsletter .content {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.newsletter .content h2 {
+    color: #243c4f;
+    margin-bottom: 40px;
+}
+
+.newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius: 0;
+}
+
+.newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+}
+
+.newsletter .content .btn {
+    min-height: 50px;
+    border-radius: 0;
+    background: #243c4f;
+    color: #fff;
+    font-weight: 600;
+}
+
+.cart {
+    position: relative;
+}
+
+.btn-primary
+{
+    background-color: #BB33FF !important;
+    background: #BB33FF !important;
+    border-color : #BB33FF !important;
+}
+
+
+.cart-counter {
+    padding: 6px;
+    height: 5px;
+    border-radius: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(224, 227, 237);
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    width: 15px;
+    transform: translate(0%, -50%);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background: #c67605;
+}
+
+@media only screen and (max-width: 1000px) {
+    .cart-counter {
+        top: 30% !important;
+        left: 6px !important;
+    }
+}
+
+.cart>tbody>tr>td, .cart>tfoot>tr>td {
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 1000px) {
+    table.cart thead {
+        display: none;
+    }
+    .actions .btn {
+        width: 22%;
+        margin: 1.5em 0;
+    }
+    table.cart tbody td {
+        display: block;
+        padding: 0.6rem;
+    }
+    table.cart tbody tr td:first-child {
+        background: #333;
+        color: #fff;
+    }
+    table.cart tbody td:before {
+        content: attr(data-th);
+        font-weight: bold;
+        display: inline-block;
+        width: 8rem;
+    }
+    table.cart tfoot td {
+        display: block;
+    }
+    table.cart tfoot td .btn {
+        display: block;
+    }
+}
