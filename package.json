@@ -73,7 +73,7 @@
     "https-proxy-agent": "^2.2.1",
     "jest": "^24.9.0",
     "jest-serializer-vue": "^2.0.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "testcafe": "^1.7.0",
     "vue-jest": "^3.0.5",
